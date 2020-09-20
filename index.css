@@ -9,14 +9,37 @@
     flex: wrap;
     display: flex;
     justify-content: center;
+    background-color: rgb(160, 160, 160);
 
   }
   .headerTextContainer{
     width: 70%;
     flex: wrap;
+    justify-content:center;
   }
   .headerText{
     font-size:30px;
     font-family:Times;
     color:#d0826e;
   }
+  .mainContainer{
+    width: 100%;
+    display: flex;
+    justify-content:center;
+  }
+    .leftPartContainer{
+      width: 30%;
+      flex: wrap;
+      display: flex;
+      justify-content: center;
+      background-color: rgb(160, 160, 160);
+    }
+      .rightPartContainer{
+        width: 70%;
+        flex: wrap;
+        justify-content:center;
+      }
+.leftPartHeader{
+  color:#253546;
+  font-size:16px;font-family:Times
+}
