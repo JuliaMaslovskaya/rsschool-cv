@@ -47,3 +47,22 @@ Engineer's degree. Faculty of infocommunication. Infocommunication Technologies 
  1. Development of D8 Stronghold fraud detection and prevention system:
      - creating and testing components,
      - creating complex forms.
+**2. FEELQUEEN | MAY 2019 - OCT 2019**
+
+ *Junior Front-End Developer.*
+
+  1. Development of component libraries:
+      - customization of native elements of the material-ui,
+      - creation of complex components;
+  2. Creating project infrastructure (project deployment, implementation of
+     component library);
+  3.  Application of modern web development methodologies (react + redux).
+
+**3. EDUCATIONAL CENTER OF HTP | MAR 2019 - JUN 2019**
+
+  *Trainee*
+
+   1. Development of the app "Online clothing store" on the React using
+     Redux, AJAX(axios), Lodash and Semantic -UI React.
+
+---
