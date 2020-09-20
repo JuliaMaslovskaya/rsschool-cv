@@ -11,3 +11,26 @@
 * y375298255184
 
 ---
+#### ABOUT
+
+I junior front-end developer of D8 Corporation. I graduated from the course "Web development using React & Angular" at the educational center of HTP.
+
+---
+### LANGUAGES
+
+* English: Intermediate
+
+---
+
+### SKILLS
+* HTML5
+* CSS3
+* Sass
+* JavaScript
+* React
+* Material-UI
+* Semantic-UI
+* Git
+* TypeScript
+
+---
