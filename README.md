@@ -1,2 +1,2 @@
 # rsschool-cv
-https://JuliaMaslovskayao/rsschool-cv/
+https://JuliaMaslovskaya/rsschool-cv/
