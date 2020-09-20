@@ -15,25 +15,32 @@
     width: 100%;
     display: flex;
     justify-content:center;
+    margin-top: 0px;
   }
   .headerImg{
+    margin-top: 10px;
     width: 30%;
     flex: wrap;
     display: flex;
     justify-content: center;
     background-color: #e0e1e1;
-
+  }
+  .mainImage{
+    margin-top: 10px;
+    border-radius: 50%;
   }
   .headerTextContainer{
     width: 70%;
     flex: wrap;
     justify-content:center;
-    margin-left: 50px;
+    margin-top: 10px;
+
   }
   .headerText{
     font-size:30px;
     font-family:Times;
     color:#d0826e;
+      margin-left: 50px;
   }
   .mainContainer{
     width: 100%;
@@ -70,9 +77,27 @@ font-family:Times;
 margin-left: 50px;
 
 }
+.leftPartText{
+  color:#253546;
+font-family:Times;
+margin-left: 5px;
+padding: 3px
+
+}
 .contactsList{
   list-style-type: none;
   display: flex;
   justify-content: flex-start;
 
+}
+.icons{
+  width: 16px;
+  height: 16px;
+  margin-right: 5px;
+}
+a:link {
+  color: #253546;
+}
+a:visited {
+  color: #253546;
 }
