@@ -34,3 +34,16 @@ I junior front-end developer of D8 Corporation. I graduated from the course "Web
 * TypeScript
 
 ---
+### EDUCATION
+_**BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS (2016 - 2020).**
+Engineer's degree. Faculty of infocommunication. Infocommunication Technologies (multimedia distribution systems)_
+
+---
+### WORK EXPERIENCE
+**1. D8 CORPORATION | MARCH 2020 - TODAY**
+
+ *Junior Front-End Developer.*
+
+ 1. Development of D8 Stronghold fraud detection and prevention system:
+     - creating and testing components,
+     - creating complex forms.
