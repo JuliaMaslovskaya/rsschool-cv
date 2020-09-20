@@ -66,3 +66,11 @@ Engineer's degree. Faculty of infocommunication. Infocommunication Technologies 
      Redux, AJAX(axios), Lodash and Semantic -UI React.
 
 ---
+### COURSES
+* **EDUCATIONAL CENTER OF HTP:** *WEB DEVELOPMENT USING REACT & ANGULAR*
+
+* **CISCO NETWORKING ACADEMY:** *CCNA R&S: Introduction to Networks*
+
+---
+### PORTFOLIO
+---
