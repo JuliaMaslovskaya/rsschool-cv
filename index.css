@@ -21,13 +21,14 @@
     flex: wrap;
     display: flex;
     justify-content: center;
-    background-color: rgb(160, 160, 160);
+    background-color: #e0e1e1;
 
   }
   .headerTextContainer{
     width: 70%;
     flex: wrap;
     justify-content:center;
+    margin-left: 50px;
   }
   .headerText{
     font-size:30px;
@@ -44,7 +45,7 @@
       flex: wrap;
       display: flex;
       justify-content: center;
-      background-color: rgb(160, 160, 160);
+      background-color:#e0e1e1;
     }
       .rightPartContainer{
         width: 70%;
@@ -56,6 +57,18 @@
   font-size:16px;font-family:Times;
   display: flex;
     justify-content: center;
+}
+.rightPartHeader{
+color:#d0826e;
+  font-size:16px;font-family:Times;
+  display: flex;
+    justify-content: center;
+}
+.rightPartText{
+  color:#253546;
+font-family:Times;
+margin-left: 50px;
+
 }
 .contactsList{
   list-style-type: none;
